@@ -1,4 +1,4 @@
-package io.github.abhi1127.shopkart;
+package io.github.abhi1127.shopkart.product;
 
 import java.util.Objects;
 
